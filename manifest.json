@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "Material Dark Theme - Dark Chocolate - Remake",
+    "description": "對於Material Dark Theme - Dark Chocolate的重製版",
+    "version": "1.0.0",
+    "homepage_url": "https://github.com/C-W-Z/Material-Dark-Theme-Dark-Chocolate-Remake",
+    "theme": {
+        "images": {
+            "theme_frame": "images\/theme_frame.png",
+            "theme_toolbar": "images\/theme_toolbar.png",
+            "theme_tab_background": "images\/theme_tab_background.png"
+        },
+        "colors": {
+            "frame": [ 35, 35, 35 ],
+            "toolbar": [ 35, 35, 35 ],
+            "tab_text": [ 255, 245, 157 ],
+            "tab_background_text": [ 154, 160, 166 ],
+            "bookmark_text": [ 242, 242, 242 ],
+            "ntp_background": [ 35, 35, 35 ],
+            "ntp_text": [ 242, 242, 242 ],
+            "ntp_link": [ 242, 242, 242 ],
+            "ntp_section": [ 242, 242, 242 ],
+            "button_background": [ 9, 9, 9, 1 ]
+        },
+        "tints": {
+            "buttons": [ 0, 0, 0.95 ]
+        },
+        "properties": {
+            "ntp_background_alignment": "center",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
